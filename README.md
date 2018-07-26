@@ -1,3 +1,2 @@
-# AndroidTest
-android测试
-1.打电话功能
+# AndroidTest 测试
+## 1.打电话功能
